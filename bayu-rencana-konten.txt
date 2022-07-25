@@ -1,5 +1,7 @@
 RENCANA KONTEN BAYU:
 -Javascript
+  * ES6
+  * Framework
 -PHP Frameworks
 -Interview
 -Vlogs
