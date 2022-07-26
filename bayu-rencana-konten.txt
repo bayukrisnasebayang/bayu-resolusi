@@ -3,6 +3,7 @@ RENCANA KONTEN BAYU:
   * ES6
   * Framework Javascript
     ^ Vue
+    ^ React
 - STruktur Data dasar
 -PHP Frameworks
   ^ Laravel
