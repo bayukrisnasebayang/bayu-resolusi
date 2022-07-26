@@ -1,8 +1,10 @@
 RENCANA KONTEN BAYU:
--Javascript
+-Javascript 
   * ES6
-  * Framework
-- STruktur Data dasar
+  * Framework Javascript
+    ^ Angular
+    ^ react
 -PHP Frameworks
+ ^ Laravel
 -Interview
 -Vlogs
